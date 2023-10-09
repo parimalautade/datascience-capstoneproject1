@@ -1,4 +1,4 @@
-# datascience-capstoneproject1
+# datascience-capstoneproject1 - LIVER DISEASE PREDICTION DATASCIENSE /ML PROJECT 1
 Task 1:-Prepare a complete data analysis report on the given data.  
 Task 2: Create a predictive model with the implementation of  
 different classifiers on the liver patient diseases dataset to predict liver diseases.
